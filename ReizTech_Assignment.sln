@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReizTech_Assignment", "ReizTech_Assignment\ReizTech_Assignment.csproj", "{202B506B-7F1C-4D83-8346-C0579766083B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202B506B-7F1C-4D83-8346-C0579766083B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202B506B-7F1C-4D83-8346-C0579766083B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202B506B-7F1C-4D83-8346-C0579766083B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202B506B-7F1C-4D83-8346-C0579766083B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F8CC76-43D7-49D2-80DF-D0D440274E90}
+	EndGlobalSection
+EndGlobal
